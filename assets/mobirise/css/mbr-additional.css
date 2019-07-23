@@ -2022,9 +2022,14 @@ body {
   color: #767676;
 }
 .cid-rx2EOTmu2C {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #7f1933;
+}
+.cid-rx32f98mp3 {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #7f1933, #7f1933);
 }
 .cid-rwmuWnNvCd {
   padding-top: 90px;
